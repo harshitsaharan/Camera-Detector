@@ -1,4 +1,4 @@
-**💤 React Sleep Detector with Alarm System**
+**💤 React Camera Detector with Alarm System**
 
 This project is a React-based sleep detection system that uses the user’s webcam to monitor alertness and trigger an alarm sound when drowsiness is detected.
 
