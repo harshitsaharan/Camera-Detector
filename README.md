@@ -23,3 +23,5 @@ Built using React with modern hooks (useState, useEffect, useRef)
 **⚠️ Note**
 
 This project is a prototype/demo implementation intended for academic and learning purposes. For production-level accuracy, advanced eye-tracking or machine learning models can be integrated.
+
+This project includes contributions from Harshit Saharan, Jasleen Kaur, Aman Arora, and Abhinav Shakya.
